@@ -46,9 +46,7 @@ Feel free to fork the repo and submit a PR.
 
 Exclusive E-commerce – Elevating the online shopping experience with clean code and modern design.
 
-```
-
----
-
+--- 
+ 
 Do you want me to also **trim it down to a very minimal README** (just description, setup, and license) for a cleaner GitHub look?
-```
+ 
